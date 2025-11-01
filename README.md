@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/yaswantsoni1128">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&color=00FEEF&width=440&lines=Fullstack+Developer;Workflow+Mapper;Open+Source+Contributor;Tech+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&color=00FEEF&width=440&lines=Fullstack+Developer;Workflow+Mapper;Tech+Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
 
